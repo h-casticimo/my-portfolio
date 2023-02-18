@@ -1,0 +1,20 @@
+.experience-container{
+    display:flex;
+}
+
+.container-expcard {
+    width: 250px;
+    height:280px;
+    background-color: var(--color-bg);
+    border-radius:10px;
+    padding: 10px;
+    overflow: hidden;
+}
+ img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+ }
+
+ h4{
+    color: var(--color-primary);
+ }
