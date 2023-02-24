@@ -1,16 +1,17 @@
 import React from 'react'
 
-export default function Expcard(props){
+export default function Projcard (props){
     return (
-        <div className="container-expcard">
-            <div className="image-expcard">
+        <div className="container-projcard">
+            <div className="image-projcard">
                 <img src={props.img} alt={props.alt}/>
             </div>
-            <div className="details-exp">
+            <div className="details-proj">
                 <h4>{props.name}</h4>
-                <h5>{props.subname}</h5>
                 <h5 className="used">{props.used}</h5>
+                <p>{props.desciption}</p>
             </div>
         </div>
     )
+
 }
