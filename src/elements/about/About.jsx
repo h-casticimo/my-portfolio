@@ -13,8 +13,9 @@ const About = () => {
         <div className="separator"></div>
         <div className="about-content">
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Doloremque explicabo assumenda provident laboriosam optio culpa impedit aut nemo vero. Qui ad magnam aut molestias corporis earum voluptatum voluptate itaque officiis?
+          An avid learner and a self-taught frontend developer seeking experience to improve skills 
+          and knowledge while creating significant contribution 
+          to the success of the company which offers professionalism and personal satisfaction.
           </p>
         </div>
       </div>

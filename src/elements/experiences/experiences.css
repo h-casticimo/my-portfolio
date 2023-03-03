@@ -1,3 +1,8 @@
+#experiences > h2 {
+   padding-top: 1rem;
+   padding-bottom: 2rem;
+}
+
 .experience-container{
     display:flex;
     align-items: center;
@@ -14,10 +19,6 @@
     overflow: hidden;
     margin: 20px;
 }
- /* img {
-    border-radius: 10px;
-    margin-bottom: 20px;
- } */
 
  .image-expcard {
    width: 100%;
@@ -26,8 +27,9 @@
    border-radius: 10px;
  }
 
- h4{
+ .details-exp > h4{
     color: var(--color-primary);
+    font-weight: bold;
  }
 
  .details-exp {

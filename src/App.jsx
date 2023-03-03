@@ -10,15 +10,15 @@ import Footer from './elements/footer/Footer'
 
 const App = () => {
     return (
-        <>
+        <div className="App-main">
             <Header />
             <Nav />
             <About />
             <Experiences />
             <Projects />
-            <Contact />
+            {/* <Contact /> */}
             <Footer />
-        </>
+        </div>
     )
 }
 

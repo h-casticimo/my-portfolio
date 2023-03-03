@@ -7,8 +7,7 @@
 }
 
 #about > h2 {
-    padding-top:20px;
-    padding-bottom:40px;
+    margin: 20px auto 7rem auto;
 }
 
 .my-image {
@@ -16,7 +15,7 @@
     height:200px;
 }
 
-img{
+.my-image > img{
     border-radius: 1.5rem;
     margin: auto 0;
 }
@@ -34,3 +33,6 @@ img{
     margin: auto 20px;
 }
 
+#about {
+    overflow:auto;
+}

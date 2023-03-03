@@ -3,7 +3,9 @@ import './footer.css'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div className="footer-container">
+      <h5>&#169;  2023</h5>
+    </div>
   )
 }
 

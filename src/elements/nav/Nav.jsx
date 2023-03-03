@@ -13,7 +13,7 @@ const Nav = () => {
       <a href="#about"><FaUserAlt /></a>
       <a href="#experiences"><BiBookAlt /></a>
       <a href="#projects"><BsCodeSquare /></a>
-      <a href="#contact"><MdOutlineMessage /></a>
+      {/* <a href="#contact"><MdOutlineMessage /></a> */}
     </nav>
   )
 }
