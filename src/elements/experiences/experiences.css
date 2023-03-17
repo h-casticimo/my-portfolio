@@ -12,12 +12,13 @@
 
 .container-expcard {
     width: 250px;
-    height:280px;
+    height:300px;
     background-color: var(--color-bg);
     border-radius:10px;
     padding: 10px;
     overflow: hidden;
     margin: 20px;
+    padding-bottom: 10px;
 }
 
  .image-expcard {
@@ -30,6 +31,7 @@
  .details-exp > h4{
     color: var(--color-primary);
     font-weight: bold;
+    text-align:center;
  }
 
  .details-exp {
