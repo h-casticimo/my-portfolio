@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content:center;
-    width: 100%;
+    width: 100vw;
     height: 2rem;
     background-color: var(--color-primary);
     margin-top: 45px;
